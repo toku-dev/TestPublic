@@ -1,5 +1,5 @@
 public class Sample {
 
-// e.g debug not data
+// e.g debug non record　not data
 // add code
 }
