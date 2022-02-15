@@ -1,4 +1,4 @@
 public class Sample {
 
-// e.g debug
+// e.g debug non record
 }
