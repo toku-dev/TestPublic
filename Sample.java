@@ -1,6 +1,6 @@
 public class Sample {
 
-// e.g debug non record　not data
-// add code
-ss
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 }
